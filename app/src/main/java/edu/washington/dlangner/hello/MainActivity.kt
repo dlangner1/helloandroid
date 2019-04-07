@@ -1,5 +1,6 @@
 package edu.washington.dlangner.hello
 
+import android.graphics.Color
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
